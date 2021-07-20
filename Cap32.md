@@ -1,24 +1,18 @@
 # CAPÍTULO 32 - CONFISCO E REDISTRIBUIÇÃO
 
-
-
 ## Resumo do Capítulo
-
 
 ### 1. A FILOSOFIA DO CONFISCO
 
 Ao contrário da crença popular, sob o capitalismo não há primeiro um estágio de produção e depois um estágio separado de distribuição. Os dois estão de fato integrados: à medida que os processos de produção geram seus resultados, eles sempre são propriedade de alguém. Atos de confisco direto podem ter sucesso em apreender bens e distribuí-los a outros indivíduos, mas os produtores consumirão seu capital se temerem episódios recorrentes de confisco.
 
-
 ### 2. A REFORMA AGRÁRIA
 
 Em uma economia de mercado, as terras agrícolas são um fator de produção como outro qualquer. A eficiência colocará o solo sob o controle dos agricultores mais produtivos, e o tamanho das fazendas tenderá para o que maximiza a produção por unidade de insumo. Se o governo interferir nesse resultado e, por exemplo, dividir fazendas maiores, isso atrairá pessoas de outras ocupações para a agricultura. A quantidade total de produtos agrícolas vai cair, elevando seus preços. A sociedade ficará mais pobre para beneficiar alguns agricultores (relativamente improdutivos).
 
-
 ### 3. TRIBUTAÇÃO CONFISCATÓRIA
 
 Quer o objetivo seja aumentar a receita ou efetuar a política social, a tributação sobre a renda e os impostos sobre a propriedade “progressivos” dificultam o crescimento econômico porque prejudicam os indivíduos mais produtivos e fornecem incentivos para que os ricos consumam seu capital antes de morrer. Ironicamente, os interesses estabelecidos são protegidos por altas taxas marginais de tributação porque os recém-chegados bem-sucedidos em uma indústria não podem reinvestir seus lucros “excessivos” se o governo os confiscar.
-
 
 Tributação confiscatória e risco empresarial
 
@@ -28,13 +22,9 @@ No entanto, esta análise interpreta incorretamente a natureza do investimento. 
 
 Os efeitos prejudiciais da tributação confiscatória são que levam ao consumo de capital e reduzem os incentivos para uma maior acumulação. O dano não está em tornar os capitalistas relutantes em se envolver em atividades arriscadas.
 
-
-
 ## Por Que É Importante
 
 Neste breve capítulo, Mises aborda as atitudes populares em relação à tributação progressiva de renda e impostos imobiliários. Ele mostra que, independentemente de seus efeitos sobre os indivíduos visados, eles tornam toda a sociedade mais pobre, acorrentando os membros mais produtivos que melhor podem satisfazer as necessidades dos consumidores.
-
-
 
 ## Notas Técnicas
 
@@ -42,10 +32,7 @@ Neste breve capítulo, Mises aborda as atitudes populares em relação à tribut
 
 2. Em sua discussão sobre a assunção de riscos empreendedores (páginas 914–916), Mises deseja reiterar o ponto de que toda ação empreendedora é especulativa; o futuro é sempre incerto; não existe investimento “seguro”. No entanto, pode-se reformular cuidadosamente a objeção contra a tributação confiscatória de uma maneira consistente com essas percepções. Por exemplo, um vendedor pode preparar uma grande variedade de produtos, na esperança de satisfazer seus clientes, cujos apetites podem ser variados. Com baixas taxas de tributação, o fornecedor pode se dar ao luxo de oferecer um espectro mais amplo de itens, porque os “acertos” mais do que cobrirão as despesas dos “fracassos”. Mas, com altas taxas de tributação, o fornecedor pode, em vez disso, oferecer uma linha de produtos mais conservadora, atendendo a gostos conhecidos. Parece apropriado descrever a tributação neste cenário como prejudicando o apetite do vendedor para assumir riscos e, portanto, reduzindo a satisfação do consumidor.
 
-
-
 ## Perguntas de Estudo
-
 
 ### 1. A FILOSOFIA DO CONFISCO
 
@@ -53,13 +40,11 @@ Neste breve capítulo, Mises aborda as atitudes populares em relação à tribut
 
 * Como a expropriação afeta a acumulação de capital?
 
-
 ### 2. A REFORMA AGRÁRIA
 
 * O que se entende por socialismo agrário? Que objeção Mises tem a este termo?
 
 * Quais são as consequências inevitáveis da interferência do governo em relação à terra?
-
 
 ### 3. TRIBUTAÇÃO CONFISCATÓRIA
 
