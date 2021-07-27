@@ -3,11 +3,11 @@
 Tradução para o português do 
 
 ## Guia de Estudos do Ação Humana<br>
-por<br>
-Robert P. Murphy<br>
-Um Tutorial do Clássico Trabalho de Ludwig von Mises
+## por<br>
+## Robert P. Murphy<br>
+## Um Tutorial do Clássico Trabalho de Ludwig von Mises
 
-Traduzido por Edson Brusque para o
+Traduzido por Edson Brusque para o Clube do Livro Ação Humana
 
 ## Clube do Livro Ação Humana
 
