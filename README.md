@@ -1,11 +1,7 @@
-# GuiaDeEstudosAcaoHumana
+# Guia de Estudos do Ação Humana
 
-Tradução para o português do 
-
-## Guia de Estudos do Ação Humana<br>
-## por<br>
-## Robert P. Murphy<br>
-## Um Tutorial do Clássico Trabalho de Ludwig von Mises
+Um Tutorial do Clássico Trabalho de Ludwig von Mises
+por Robert P. Murphy
 
 Traduzido por Edson Brusque para o Clube do Livro Ação Humana
 
@@ -15,7 +11,6 @@ Assista às lives no YouTube:
 https://www.youtube.com/channel/UChStw-hf4hedsxa4bbzrxqg
 
 Ou nos ouça em formato podcast no Spotify, Google Podcast etc, Breez Bitcoin Wallet etc.
-
 
 ## Andamento do projeto:
 
