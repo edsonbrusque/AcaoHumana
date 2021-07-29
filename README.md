@@ -14,6 +14,8 @@ Ou nos ouça em formato podcast no Spotify, Google Podcast etc, Breez Bitcoin Wa
 
 ## Andamento do projeto:
 
-Capítulos 1 a 13 - Tradução em progresso<br>
+Prefácio - OK<br>
+Capítulo 1 - OK<br>
+Capítulos 2 a 13 - Tradução em progresso<br>
 Capítulos 14 a 31 - Traduzidos - Falta editar e publicar no GitHub<br>
 Capítulos 32 a 39 - Traduzidos e publicados<br>
