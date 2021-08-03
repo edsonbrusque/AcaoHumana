@@ -26,7 +26,9 @@ Neste capítulo final, Mises lembra o leitor da natureza da economia e sua conex
 
 (1) Mises escreve que
 
-> Quando, por exemplo, um economista diz que uma política de salários mínimos é má, o que está dizendo é que os seus efeitos contrariam os propósitos dos que a recomendam. (página 997) O seguidor de Mises, Murray Rothbard, alteraria esta análise. Na verdade, muitos dos políticos e burocratas que implementam políticas intervencionistas alcançam seus objetivos desejados - ou seja, ganhar eleições ou receber orçamentos maiores.
+> Quando, por exemplo, um economista diz que uma política de salários mínimos é má, o que está dizendo é que os seus efeitos contrariam os propósitos dos que a recomendam. (página 997)
+
+O seguidor de Mises, Murray Rothbard, alteraria esta análise. Na verdade, muitos dos políticos e burocratas que implementam políticas intervencionistas alcançam seus objetivos desejados, como ganhar eleições ou receber orçamentos maiores.
 
 (2) Outra distinção entre Mises e Rothbard é que Mises acreditava que os julgamentos de valor estavam, em última análise, além da análise racional (por exemplo, páginas 997 a 999). Rothbard rejeitou a assim chamada distinção "ser" versus "dever ser" e pensou que a razão poderia lançar luz sobre os objetivos adequados dos humanos. Mesmo assim, Rothbard concordou que a praxeologia era propriamente uma ciência sem valores.
 
